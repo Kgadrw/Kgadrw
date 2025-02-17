@@ -1,4 +1,4 @@
-```md
+
 # 👋 Hi, I'm Gad Kalisa  
 
 🚀 **Frontend Developer & UI/UX Designer**  
@@ -54,7 +54,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kgadrw&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
 
----
+
 
 ## 🤝 Let's Connect!  
 
