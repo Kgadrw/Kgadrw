@@ -1,5 +1,5 @@
 # Hi, I'm Gad Kalisa
-# Frontend Developer & UI/UX Designer  
+# FULLSTACK Developer & UI/UX Designer  
 Passionate about crafting clean, responsive, and user-centric web applications. I specialize in frontend development and UI/UX design, leveraging modern frameworks to build engaging digital experiences. Constantly learning, innovating, and contributing to open-source projects.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Kgadrw&label=Profile%20Views&color=blue&style=flat)
